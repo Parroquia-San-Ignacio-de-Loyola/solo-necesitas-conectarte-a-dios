@@ -1,2 +1,25 @@
-# solo-necesitas-conectarte-a-dios
-Solo necesitas conectarte a Dios.
+<style>
+html,body{
+  margin:0;
+  padding:0;
+  width:100%;
+  min-height:100%;
+  background:#f7f4d1;
+}
+body{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+img{
+  display:block;
+  width:100vw;
+  max-width:430px;
+  height:auto;
+}
+</style>
+</head>
+<body>
+<img src="pantalla-dios.png" alt="Solo necesitas conectarte a Dios">
+</body>
+</html>
